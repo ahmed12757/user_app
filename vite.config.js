@@ -14,7 +14,7 @@ export default defineConfig({
 			includeAssets: ['favicon.ico', 'Image/apple-touch-icon.png', 'Image/*.png'],
 			manifest: {
 				name: 'سلامتكم أولاً',
-				short_name: 'سلامتكم',
+				short_name: 'سلامتكم أولاً',
 				description: 'نظام إدارة سيارات الإسعاف - سلامتكم أولاً',
 				theme_color: '#1e40af', 
 				background_color: '#000000',
